@@ -1,0 +1,42 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "catery 1",
+      "description": "desc 1"
+    },
+    {
+      "id": 20,
+      "name": "catery 2",
+      "description": "desc 2"
+    },
+    {
+      "id": 3,
+      "name": "cate 2",
+      "description": "desc 2"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "title": "title 1",
+      "description": "desc 1",
+      "quantity": "10",
+      "price": "100"
+    },
+    {
+      "title": "title 22",
+      "description": "desc 22",
+      "quantity": "22",
+      "price": "222",
+      "id": 2
+    },
+    {
+      "title": "title 3",
+      "description": "desc 3",
+      "quantity": "30",
+      "price": "300",
+      "id": 3
+    }
+  ]
+}
