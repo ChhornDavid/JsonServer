@@ -8,6 +8,9 @@
     "dev": "json-server --watch db.json --port 4000 --host localhost",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "json-server": "^0.17.3"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
