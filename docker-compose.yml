@@ -1,0 +1,8 @@
+services:
+  json-server:
+    build: .
+    container_name: json-server
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./db.json:/app/db.json
